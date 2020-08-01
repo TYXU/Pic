@@ -1,0 +1,2 @@
+# Pic
+Static resources.
